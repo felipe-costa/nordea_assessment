@@ -21,7 +21,7 @@ class MatchesEtl:
         """_summary_
 
         Returns:
-            Transformer: _description_
+            Transformer: Instance of Transformer class
         """
         columns = ['team_id','team_name']
         self.transformer.load(self.input_file_name) \
@@ -31,10 +31,12 @@ class MatchesEtl:
             .save('output/team.json',format='jsonl')
         return self
  
-    def custom_total_goals(self):
-        self.df['total_goals'] = self.df['home_goals'] + self.df['away_goals']
-    
-    def extract_matches(self):
+    def extract_matches(self) -> Transformer:
+        """Extract match.json file
+
+        Returns:
+            Transformer: Instance of Transformer class
+        """
         
         #home
         columns = ['match_id','match_name','team_id','goals_scored','minutes_played'] 
@@ -55,8 +57,12 @@ class MatchesEtl:
         .save('transformed/trf_away_matches.csv')
         return self
 
-    def extract_players(self):
+    def extract_players(self) -> Transformer:
+        """Extract player.json file
 
+        Returns:
+            Transformer: Instance of Transformer class
+        """
         columns = ['player_id','team_id','player_name']
         self.transformer.load(self.input_file_name) \
             .select_columns(columns) \
@@ -66,7 +72,12 @@ class MatchesEtl:
         return self
 
 
-    def transpose_matches(self):
+    def transpose_matches(self) -> Transformer:
+        """Join matches files
+
+        Returns:
+            Transformer: Instance of Transformer class
+        """
         total_goals = lambda x:  x['home_goals'] + x['away_goals']
         self.transformer.join_datasets('transformed/trf_home_matches.csv',
                                        'transformed/trf_away_matches.csv',
@@ -76,7 +87,12 @@ class MatchesEtl:
 
         return self
 
-    def extract_stats(self):
+    def extract_stats(self) -> Transformer:
+        """Extract stats file
+
+        Returns:
+            Transformer: Instance of Transformer class
+        """
     
         columns = 'match_id,player_id,goals_scored,minutes_played'.split(',')
         self.transformer.load(self.input_file_name) \
@@ -84,7 +100,12 @@ class MatchesEtl:
             .save('transformed/trf_stats.csv')
         return self
     
-    def export_matches(self):
+    def export_matches(self) -> Transformer:
+        """Export match.json file
+
+        Returns:
+            Transformer: Instance of Transformer class
+        """
         columns = 'match_id,match_name,home_team_id,home_goals,away_team_id,away_goals'.split(',')
         columns_renamed = {
             'match_id': 'Match Id',
@@ -101,7 +122,12 @@ class MatchesEtl:
             .save('output/match.json',format='jsonl')
             
     
-    def export_stats(self):
+    def export_stats(self) -> Transformer:
+        """Export stats file
+
+        Returns:
+            Transformer: Instance of Transformer class
+        """
         columns_to_drop = ['match_name','home_team_id','home_goals','home_minutes_played','away_team_id','away_goals','away_minutes_played','total_goals']
         columns_renamed = {
                            "player_id":'Player Id',
@@ -122,15 +148,17 @@ class MatchesEtl:
     
     
     def run(self):
+        """Run the full pipeline
+        """
         #teams
-        self.transform_teams() 
+        self.extract_teams() 
 
         #players
-        self.transform_players()
+        self.extract_players()
 
         #matches
-        self.transform_matches() .transpose_matches() 
+        self.extract_matches().transpose_matches().export_matches()
 
         #stats
-        self.transform_stats().export_stats()
+        self.extract_stats().export_stats()
 

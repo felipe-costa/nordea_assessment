@@ -82,7 +82,6 @@ class Transformer:
         Returns:
             Transformer: returns the current instance of transformer class
         """
-        print(self.df.columns)
         self.df[column] = self.df.apply(lambda_function,axis=1)
         return self
     
