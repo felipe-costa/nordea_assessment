@@ -1,0 +1,191 @@
+match_id,match_name,home_team_id,home_goals,home_minutes_played
+12,"Look Ma, No Hands vs Formerly In Shape Stars",1,6,765
+13,"Look Ma, No Hands vs Sons Of Chuck Norris",1,9,761
+14,"Look Ma, No Hands vs Benchwarmers",1,8,702
+15,"Look Ma, No Hands vs Marauders",1,8,703
+16,"Look Ma, No Hands vs Miscellaneous",1,12,712
+17,"Look Ma, No Hands vs 3 Left Feet",1,5,770
+18,"Look Ma, No Hands vs 11 Men In Flight",1,2,815
+19,"Look Ma, No Hands vs Easily Nauseous",1,6,738
+23,Formerly In Shape Stars vs Sons Of Chuck Norris,2,5,754
+24,Formerly In Shape Stars vs Benchwarmers,2,6,784
+25,Formerly In Shape Stars vs Marauders,2,10,718
+26,Formerly In Shape Stars vs Miscellaneous,2,6,738
+27,Formerly In Shape Stars vs 3 Left Feet,2,3,755
+28,Formerly In Shape Stars vs 11 Men In Flight,2,7,823
+29,Formerly In Shape Stars vs Easily Nauseous,2,5,764
+34,Sons Of Chuck Norris vs Benchwarmers,3,4,713
+35,Sons Of Chuck Norris vs Marauders,3,2,702
+36,Sons Of Chuck Norris vs Miscellaneous,3,10,708
+37,Sons Of Chuck Norris vs 3 Left Feet,3,3,686
+38,Sons Of Chuck Norris vs 11 Men In Flight,3,9,771
+39,Sons Of Chuck Norris vs Easily Nauseous,3,9,723
+45,Benchwarmers vs Marauders,4,5,791
+46,Benchwarmers vs Miscellaneous,4,4,736
+47,Benchwarmers vs 3 Left Feet,4,11,688
+48,Benchwarmers vs 11 Men In Flight,4,4,778
+49,Benchwarmers vs Easily Nauseous,4,6,736
+56,Marauders vs Miscellaneous,5,6,777
+57,Marauders vs 3 Left Feet,5,4,637
+58,Marauders vs 11 Men In Flight,5,8,754
+59,Marauders vs Easily Nauseous,5,6,725
+67,Miscellaneous vs 3 Left Feet,6,1,754
+68,Miscellaneous vs 11 Men In Flight,6,8,758
+69,Miscellaneous vs Easily Nauseous,6,4,837
+78,3 Left Feet vs 11 Men In Flight,7,3,667
+79,3 Left Feet vs Easily Nauseous,7,7,801
+89,11 Men In Flight vs Easily Nauseous,8,6,676
+110,"Look Ma, No Hands vs The Strongest Football Club",1,1,741
+111,"Look Ma, No Hands vs Meanies",1,12,775
+112,"Look Ma, No Hands vs Killer Giants",1,6,768
+113,"Look Ma, No Hands vs Lost",1,5,754
+114,"Look Ma, No Hands vs Cape Coast Mysterious Dwarves",1,6,766
+115,"Look Ma, No Hands vs Kicking You",1,12,743
+116,"Look Ma, No Hands vs Fat Married People",1,7,772
+117,"Look Ma, No Hands vs We Like Puppies",1,7,754
+118,"Look Ma, No Hands vs Aliens",1,7,758
+119,"Look Ma, No Hands vs Nagoya Grampus Eight",1,5,673
+120,"Look Ma, No Hands vs Two Left Feet",1,1,793
+210,Formerly In Shape Stars vs The Strongest Football Club,2,5,667
+211,Formerly In Shape Stars vs Meanies,2,9,719
+212,Formerly In Shape Stars vs Killer Giants,2,2,828
+213,Formerly In Shape Stars vs Lost,2,5,678
+214,Formerly In Shape Stars vs Cape Coast Mysterious Dwarves,2,8,818
+215,Formerly In Shape Stars vs Kicking You,2,6,768
+216,Formerly In Shape Stars vs Fat Married People,2,10,709
+217,Formerly In Shape Stars vs We Like Puppies,2,1,738
+218,Formerly In Shape Stars vs Aliens,2,7,736
+219,Formerly In Shape Stars vs Nagoya Grampus Eight,2,8,793
+220,Formerly In Shape Stars vs Two Left Feet,2,6,772
+310,Sons Of Chuck Norris vs The Strongest Football Club,3,4,677
+311,Sons Of Chuck Norris vs Meanies,3,6,718
+312,Sons Of Chuck Norris vs Killer Giants,3,8,700
+313,Sons Of Chuck Norris vs Lost,3,8,759
+314,Sons Of Chuck Norris vs Cape Coast Mysterious Dwarves,3,3,763
+315,Sons Of Chuck Norris vs Kicking You,3,3,737
+316,Sons Of Chuck Norris vs Fat Married People,3,5,708
+317,Sons Of Chuck Norris vs We Like Puppies,3,5,748
+318,Sons Of Chuck Norris vs Aliens,3,10,756
+319,Sons Of Chuck Norris vs Nagoya Grampus Eight,3,7,761
+320,Sons Of Chuck Norris vs Two Left Feet,3,4,698
+410,Benchwarmers vs The Strongest Football Club,4,8,708
+411,Benchwarmers vs Meanies,4,7,706
+412,Benchwarmers vs Killer Giants,4,5,751
+413,Benchwarmers vs Lost,4,7,825
+414,Benchwarmers vs Cape Coast Mysterious Dwarves,4,4,744
+415,Benchwarmers vs Kicking You,4,5,756
+416,Benchwarmers vs Fat Married People,4,4,762
+417,Benchwarmers vs We Like Puppies,4,5,794
+418,Benchwarmers vs Aliens,4,7,774
+419,Benchwarmers vs Nagoya Grampus Eight,4,6,738
+420,Benchwarmers vs Two Left Feet,4,9,792
+510,Marauders vs The Strongest Football Club,5,7,720
+511,Marauders vs Meanies,5,7,616
+512,Marauders vs Killer Giants,5,7,745
+513,Marauders vs Lost,5,7,806
+514,Marauders vs Cape Coast Mysterious Dwarves,5,9,661
+515,Marauders vs Kicking You,5,3,733
+516,Marauders vs Fat Married People,5,8,738
+517,Marauders vs We Like Puppies,5,10,687
+518,Marauders vs Aliens,5,10,803
+519,Marauders vs Nagoya Grampus Eight,5,4,787
+520,Marauders vs Two Left Feet,5,8,759
+610,Miscellaneous vs The Strongest Football Club,6,10,610
+611,Miscellaneous vs Meanies,6,3,764
+612,Miscellaneous vs Killer Giants,6,12,771
+613,Miscellaneous vs Lost,6,2,796
+614,Miscellaneous vs Cape Coast Mysterious Dwarves,6,8,738
+615,Miscellaneous vs Kicking You,6,11,781
+616,Miscellaneous vs Fat Married People,6,10,772
+617,Miscellaneous vs We Like Puppies,6,15,761
+618,Miscellaneous vs Aliens,6,8,720
+619,Miscellaneous vs Nagoya Grampus Eight,6,5,694
+620,Miscellaneous vs Two Left Feet,6,6,715
+710,3 Left Feet vs The Strongest Football Club,7,2,719
+711,3 Left Feet vs Meanies,7,2,766
+712,3 Left Feet vs Killer Giants,7,12,766
+713,3 Left Feet vs Lost,7,6,797
+714,3 Left Feet vs Cape Coast Mysterious Dwarves,7,10,769
+715,3 Left Feet vs Kicking You,7,5,691
+716,3 Left Feet vs Fat Married People,7,5,730
+717,3 Left Feet vs We Like Puppies,7,7,806
+718,3 Left Feet vs Aliens,7,7,859
+719,3 Left Feet vs Nagoya Grampus Eight,7,6,770
+720,3 Left Feet vs Two Left Feet,7,1,815
+810,11 Men In Flight vs The Strongest Football Club,8,5,745
+811,11 Men In Flight vs Meanies,8,6,762
+812,11 Men In Flight vs Killer Giants,8,4,713
+813,11 Men In Flight vs Lost,8,5,761
+814,11 Men In Flight vs Cape Coast Mysterious Dwarves,8,4,748
+815,11 Men In Flight vs Kicking You,8,5,766
+816,11 Men In Flight vs Fat Married People,8,5,730
+817,11 Men In Flight vs We Like Puppies,8,9,755
+818,11 Men In Flight vs Aliens,8,5,827
+819,11 Men In Flight vs Nagoya Grampus Eight,8,3,673
+820,11 Men In Flight vs Two Left Feet,8,2,794
+910,Easily Nauseous vs The Strongest Football Club,9,14,740
+911,Easily Nauseous vs Meanies,9,9,854
+912,Easily Nauseous vs Killer Giants,9,11,804
+913,Easily Nauseous vs Lost,9,6,774
+914,Easily Nauseous vs Cape Coast Mysterious Dwarves,9,10,833
+915,Easily Nauseous vs Kicking You,9,7,800
+916,Easily Nauseous vs Fat Married People,9,13,693
+917,Easily Nauseous vs We Like Puppies,9,3,777
+918,Easily Nauseous vs Aliens,9,6,733
+919,Easily Nauseous vs Nagoya Grampus Eight,9,3,796
+920,Easily Nauseous vs Two Left Feet,9,5,751
+1011,The Strongest Football Club vs Meanies,10,7,772
+1012,The Strongest Football Club vs Killer Giants,10,9,821
+1013,The Strongest Football Club vs Lost,10,2,786
+1014,The Strongest Football Club vs Cape Coast Mysterious Dwarves,10,3,724
+1015,The Strongest Football Club vs Kicking You,10,4,763
+1016,The Strongest Football Club vs Fat Married People,10,4,865
+1017,The Strongest Football Club vs We Like Puppies,10,11,702
+1018,The Strongest Football Club vs Aliens,10,2,655
+1019,The Strongest Football Club vs Nagoya Grampus Eight,10,3,689
+1020,The Strongest Football Club vs Two Left Feet,10,3,780
+1112,Meanies vs Killer Giants,11,5,745
+1113,Meanies vs Lost,11,8,782
+1114,Meanies vs Cape Coast Mysterious Dwarves,11,10,818
+1115,Meanies vs Kicking You,11,7,775
+1116,Meanies vs Fat Married People,11,6,785
+1117,Meanies vs We Like Puppies,11,12,782
+1118,Meanies vs Aliens,11,7,673
+1119,Meanies vs Nagoya Grampus Eight,11,3,661
+1120,Meanies vs Two Left Feet,11,6,666
+1213,Killer Giants vs Lost,12,8,741
+1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,8,737
+1215,Killer Giants vs Kicking You,12,14,724
+1216,Killer Giants vs Fat Married People,12,2,760
+1217,Killer Giants vs We Like Puppies,12,11,795
+1218,Killer Giants vs Aliens,12,2,745
+1219,Killer Giants vs Nagoya Grampus Eight,12,3,813
+1220,Killer Giants vs Two Left Feet,12,3,796
+1314,Lost vs Cape Coast Mysterious Dwarves,13,6,820
+1315,Lost vs Kicking You,13,4,797
+1316,Lost vs Fat Married People,13,6,728
+1317,Lost vs We Like Puppies,13,8,737
+1318,Lost vs Aliens,13,6,854
+1319,Lost vs Nagoya Grampus Eight,13,3,717
+1320,Lost vs Two Left Feet,13,6,656
+1415,Cape Coast Mysterious Dwarves vs Kicking You,14,1,795
+1416,Cape Coast Mysterious Dwarves vs Fat Married People,14,1,742
+1417,Cape Coast Mysterious Dwarves vs We Like Puppies,14,6,739
+1418,Cape Coast Mysterious Dwarves vs Aliens,14,10,727
+1419,Cape Coast Mysterious Dwarves vs Nagoya Grampus Eight,14,10,732
+1420,Cape Coast Mysterious Dwarves vs Two Left Feet,14,4,770
+1516,Kicking You vs Fat Married People,15,3,708
+1517,Kicking You vs We Like Puppies,15,2,844
+1518,Kicking You vs Aliens,15,3,812
+1519,Kicking You vs Nagoya Grampus Eight,15,3,652
+1520,Kicking You vs Two Left Feet,15,4,773
+1617,Fat Married People vs We Like Puppies,16,10,769
+1618,Fat Married People vs Aliens,16,5,794
+1619,Fat Married People vs Nagoya Grampus Eight,16,6,776
+1620,Fat Married People vs Two Left Feet,16,4,745
+1718,We Like Puppies vs Aliens,17,5,691
+1719,We Like Puppies vs Nagoya Grampus Eight,17,6,675
+1720,We Like Puppies vs Two Left Feet,17,8,659
+1819,Aliens vs Nagoya Grampus Eight,18,4,728
+1820,Aliens vs Two Left Feet,18,3,794
+1920,Nagoya Grampus Eight vs Two Left Feet,19,3,763

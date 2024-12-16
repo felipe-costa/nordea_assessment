@@ -1,0 +1,419 @@
+,match_id,match_name,team_id,team_name,is_home,player_id,player_name,goals_scored,minutes_played
+1,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,31,Philip Webster,1,49
+10,1215,Killer Giants vs Kicking You,15,Kicking You,False,114,Jared Soto,0,45
+22,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,1,68
+49,1218,Killer Giants vs Aliens,12,Killer Giants,True,91,James Kim,0,46
+65,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,211,Jacob White,2,54
+70,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,200,Christine Bennett,0,68
+85,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,111,Logan Watts,0,63
+88,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,113,Kim Vargas,0,52
+102,1112,Meanies vs Killer Giants,11,Meanies,True,70,Jeff Martinez,0,71
+117,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,211,Jacob White,3,48
+119,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,216,Julia Sparks DDS,0,55
+132,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,205,Mark Nielsen,1,82
+135,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,88,Tanya Morris,2,84
+140,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,129,Amber Le,3,77
+149,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,68,Ryan Valenzuela,1,83
+154,1213,Killer Giants vs Lost,12,Killer Giants,True,51,Tammy Evans,2,88
+162,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,100,Chad Rivera,2,70
+203,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,81,Alicia Rich DDS,0,76
+205,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,153,Jared Bass,0,60
+221,1215,Killer Giants vs Kicking You,15,Kicking You,False,154,Gloria Allison,0,47
+223,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,131,Aaron Reyes,0,60
+235,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,155,Mr. Alexis Murray,1,75
+236,1213,Killer Giants vs Lost,13,Lost,False,72,Dr. Robert Harper,0,58
+257,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,0,55
+269,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,209,David Yates,1,72
+272,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,3,76
+283,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,0,72
+287,1213,Killer Giants vs Lost,13,Lost,False,212,James Lee,1,77
+291,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,2,Denise Williamson,0,79
+302,1213,Killer Giants vs Lost,13,Lost,False,132,Jonathan Montgomery,0,49
+304,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,0,71
+307,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,31,Philip Webster,1,46
+317,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,191,Blake Garcia,0,64
+325,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,20,Jonathan Kennedy,0,68
+326,512,Marauders vs Killer Giants,5,Marauders,True,144,Michael Blevins,1,89
+344,1218,Killer Giants vs Aliens,18,Aliens,False,117,Renee Aguilar,0,55
+346,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,0,66
+348,1218,Killer Giants vs Aliens,18,Aliens,False,17,Nicholas Richardson,1,67
+351,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,162,Aaron Figueroa,0,63
+353,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,91,James Kim,0,81
+367,1112,Meanies vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,2,48
+374,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,171,Lisa Brooks,0,57
+387,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,160,Perry Cooper,0,62
+389,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,211,Jacob White,1,51
+394,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,60,Amanda Arnold,1,56
+423,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,181,Joseph Maldonado,0,90
+426,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,62,Sandra Chen,0,52
+432,1213,Killer Giants vs Lost,13,Lost,False,192,Jennifer Price,3,60
+440,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,179,Hailey Cooper,1,79
+457,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,3,48
+458,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,151,Anthony Carpenter,0,62
+479,512,Marauders vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,1,75
+507,1213,Killer Giants vs Lost,13,Lost,False,92,Hunter Howell,0,88
+508,1112,Meanies vs Killer Giants,11,Meanies,True,10,Christine Cole,1,61
+515,512,Marauders vs Killer Giants,5,Marauders,True,204,Jamie Oconnor,1,64
+526,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,211,Jacob White,0,50
+536,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,75,Andrew Thomas,0,79
+551,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,31,Philip Webster,0,77
+568,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,0,60
+584,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,47,Christopher Gates Jr.,2,62
+593,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,51,Tammy Evans,0,78
+618,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,0,78
+623,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,0,62
+628,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,208,Lauren Williams,0,87
+640,1218,Killer Giants vs Aliens,18,Aliens,False,197,Krista Day,1,69
+652,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,111,Logan Watts,1,78
+666,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,0,68
+676,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,151,Anthony Carpenter,0,66
+690,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,218,Christopher Barnes,0,56
+711,1218,Killer Giants vs Aliens,12,Killer Giants,True,11,Andrea Valentine,1,84
+714,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,193,Melissa Espinoza,1,83
+719,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,0,78
+733,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,51,Tammy Evans,1,69
+740,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,131,Aaron Reyes,1,86
+741,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,148,Robert Adams,0,75
+750,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,198,Katelyn Roberts,2,78
+753,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,93,Eric Cook,2,72
+765,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,11,Andrea Valentine,0,53
+773,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,2,69
+788,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,107,Ashley Mckinney,0,61
+790,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,31,Philip Webster,0,64
+833,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,211,Jacob White,1,83
+842,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,9,Randy Johnson,1,82
+877,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,49,Theresa Black,1,74
+891,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,126,Heather Alvarez,2,45
+912,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,118,John Taylor,0,66
+913,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,71,Charles Vazquez,0,71
+930,1218,Killer Giants vs Aliens,18,Aliens,False,137,Dan Brown,0,68
+934,1112,Meanies vs Killer Giants,11,Meanies,True,90,Kristen Costa MD,1,88
+935,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,122,Ivan Peterson,0,51
+950,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,176,David Johnson,0,74
+956,512,Marauders vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,0,63
+963,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,133,Mario Webster,0,80
+968,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,85,Kathleen Rodriguez,0,83
+975,1112,Meanies vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,0,79
+990,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,91,James Kim,1,59
+993,1112,Meanies vs Killer Giants,11,Meanies,True,210,Matthew Jones,0,52
+995,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,149,Angela Hernandez,0,77
+1007,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,111,Logan Watts,0,84
+1019,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,0,68
+1025,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,211,Jacob White,0,52
+1028,1213,Killer Giants vs Lost,13,Lost,False,112,Sherri Carlson,0,63
+1045,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,111,Logan Watts,1,64
+1055,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,1,69
+1059,1213,Killer Giants vs Lost,12,Killer Giants,True,11,Andrea Valentine,1,70
+1069,1218,Killer Giants vs Aliens,12,Killer Giants,True,51,Tammy Evans,0,76
+1072,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,82,Kevin Jackson DDS,0,54
+1088,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,215,Christopher Sawyer,0,51
+1106,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,2,52
+1118,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,108,Vanessa Holder,2,83
+1132,512,Marauders vs Killer Giants,5,Marauders,True,44,Donald Welch,1,47
+1134,512,Marauders vs Killer Giants,5,Marauders,True,64,Brittany Hawkins,0,80
+1144,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,83,Michael Palmer,0,55
+1149,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,58,Sharon Murray,0,62
+1151,1112,Meanies vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,0,68
+1154,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,131,Aaron Reyes,0,76
+1167,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,91,James Kim,0,77
+1177,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,0,68
+1187,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,29,Michael Ruiz,3,88
+1199,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,166,Cynthia Carpenter,1,49
+1213,512,Marauders vs Killer Giants,5,Marauders,True,184,Bruce Li,0,57
+1217,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,211,Jacob White,2,89
+1218,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,1,90
+1222,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,213,Maria Decker,0,69
+1234,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,140,Taylor Jones,0,83
+1241,1218,Killer Giants vs Aliens,18,Aliens,False,217,Kathy Lucas,0,85
+1246,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,203,Destiny Thomas,0,46
+1260,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,171,Lisa Brooks,0,84
+1274,1213,Killer Giants vs Lost,13,Lost,False,152,Michael Wise,0,76
+1277,1112,Meanies vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,0,74
+1280,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,101,Caitlyn Wright,0,71
+1283,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,26,Darrell Richards,2,73
+1288,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,40,James Mcpherson,0,88
+1293,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,3,Tony Martin,0,63
+1301,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,71,Charles Vazquez,0,71
+1307,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,111,Logan Watts,0,86
+1335,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,2,78
+1339,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,161,Harry Sanders,0,85
+1340,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,31,Philip Webster,0,56
+1349,1213,Killer Giants vs Lost,12,Killer Giants,True,111,Logan Watts,0,78
+1355,1218,Killer Giants vs Aliens,12,Killer Giants,True,31,Philip Webster,0,61
+1360,1215,Killer Giants vs Kicking You,12,Killer Giants,True,91,James Kim,1,65
+1368,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,11,Andrea Valentine,0,90
+1392,512,Marauders vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,1,65
+1424,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,159,Kenneth Estrada,1,50
+1433,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,6,Nichole Goodwin,1,76
+1440,1215,Killer Giants vs Kicking You,12,Killer Giants,True,131,Aaron Reyes,0,63
+1444,1112,Meanies vs Killer Giants,11,Meanies,True,170,Thomas Black,0,56
+1451,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,111,Logan Watts,1,46
+1457,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,0,80
+1462,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,111,Logan Watts,0,59
+1477,1215,Killer Giants vs Kicking You,12,Killer Giants,True,11,Andrea Valentine,3,47
+1480,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,91,James Kim,2,87
+1482,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,0,65
+1483,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,91,James Kim,0,88
+1489,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,106,Mike Murray,1,72
+1491,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,79,David Vargas,0,85
+1507,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,131,Aaron Reyes,0,89
+1508,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,0,67
+1509,1112,Meanies vs Killer Giants,12,Killer Giants,False,211,Jacob White,1,72
+1519,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,7,Kathleen Lewis,2,64
+1536,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,191,Blake Garcia,0,71
+1538,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,51,Tammy Evans,1,64
+1539,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,95,Russell Pace,0,90
+1547,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,3,57
+1550,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,175,Derek Hopkins,0,86
+1558,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,158,Sandra Johnston,0,68
+1579,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,31,Philip Webster,0,81
+1581,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,0,49
+1597,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,11,Andrea Valentine,0,52
+1614,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,0,78
+1621,512,Marauders vs Killer Giants,5,Marauders,True,84,Sarah Duncan,0,52
+1635,1112,Meanies vs Killer Giants,11,Meanies,True,150,Andrew Rodriguez,0,80
+1639,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,111,Logan Watts,1,80
+1660,512,Marauders vs Killer Giants,12,Killer Giants,False,31,Philip Webster,0,62
+1662,1112,Meanies vs Killer Giants,11,Meanies,True,30,Timothy Marsh,1,61
+1663,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,2,75
+1677,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,191,Blake Garcia,0,76
+1685,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,151,Anthony Carpenter,0,71
+1689,1213,Killer Giants vs Lost,13,Lost,False,12,Jill Graham DVM,1,77
+1730,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,98,David Hughes,2,82
+1735,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,41,Julie Villa,1,88
+1743,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,138,Miss Tiffany Foley DDS,0,63
+1764,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,206,James Garcia,1,87
+1773,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,91,James Kim,0,46
+1775,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,1,45
+1781,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,186,Jordan Hicks,1,49
+1825,1218,Killer Giants vs Aliens,18,Aliens,False,157,Sylvia Barnett,0,49
+1830,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,211,Jacob White,0,63
+1831,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,51,Tammy Evans,0,90
+1835,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,36,John Cruz,3,56
+1838,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,121,Kayla Cooper,0,80
+1859,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,169,Ryan Jacobs,0,83
+1866,512,Marauders vs Killer Giants,12,Killer Giants,False,111,Logan Watts,0,74
+1874,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,96,Rebecca Rodriguez,0,54
+1880,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,171,Lisa Brooks,3,76
+1911,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,207,Frank Lawrence,0,82
+1915,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,3,85
+1919,1112,Meanies vs Killer Giants,12,Killer Giants,False,91,James Kim,0,80
+1921,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,165,Stephen Clark,1,57
+1926,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,73,Kelly Lopez,0,86
+1929,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,182,Kristina Hall,2,50
+1935,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,31,Philip Webster,0,48
+1937,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,31,Philip Webster,0,78
+1947,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,191,Blake Garcia,0,80
+1994,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,123,Laurie Hall,1,82
+2007,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,211,Jacob White,1,75
+2008,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,63,Mr. Michael Kelly,0,51
+2025,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,71,Charles Vazquez,0,87
+2042,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,131,Aaron Reyes,1,59
+2051,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,131,Aaron Reyes,2,88
+2060,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,80,Melissa Harvey,0,70
+2064,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,0,75
+2068,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,91,James Kim,0,89
+2078,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,146,Lisa Jones,0,74
+2094,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,0,58
+2096,1213,Killer Giants vs Lost,12,Killer Giants,True,151,Anthony Carpenter,0,73
+2099,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,188,Gerald Owens,3,48
+2102,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,71,Charles Vazquez,2,52
+2107,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,171,Lisa Brooks,0,71
+2118,1112,Meanies vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,0,85
+2122,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,1,48
+2130,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,91,James Kim,2,73
+2162,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,0,76
+2165,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,145,Christine Dickson,3,47
+2178,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,0,Mary Vargas,0,58
+2202,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,111,Logan Watts,0,52
+2212,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,91,James Kim,0,56
+2215,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,53,Kayla Williams,0,71
+2224,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,211,Jacob White,1,57
+2234,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,18,Cindy May,2,65
+2267,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,0,49
+2271,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,0,68
+2278,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,27,Benjamin Cuevas,0,65
+2302,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,31,Philip Webster,0,81
+2314,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,103,Deborah Shepard,0,81
+2323,1213,Killer Giants vs Lost,12,Killer Giants,True,191,Blake Garcia,0,59
+2329,1215,Killer Giants vs Kicking You,12,Killer Giants,True,151,Anthony Carpenter,0,52
+2333,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,31,Philip Webster,0,56
+2341,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,1,70
+2353,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,15,Vanessa Reeves DDS,0,70
+2366,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,136,Melanie Daniels,0,56
+2368,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,111,Logan Watts,0,51
+2381,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,102,Tanya Gilbert,1,73
+2387,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,219,Stephanie Brown,2,61
+2389,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,16,Michelle Contreras,0,75
+2407,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,125,William Payne,1,86
+2408,1215,Killer Giants vs Kicking You,12,Killer Giants,True,111,Logan Watts,2,64
+2410,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,211,Jacob White,0,47
+2417,1213,Killer Giants vs Lost,12,Killer Giants,True,91,James Kim,1,86
+2420,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,99,Kelli Estrada,2,66
+2421,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,0,61
+2422,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,105,Patrick Smith,2,80
+2429,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,201,Tina Bell,0,62
+2432,1215,Killer Giants vs Kicking You,15,Kicking You,False,94,Juan Reynolds,0,46
+2449,1218,Killer Giants vs Aliens,12,Killer Giants,True,151,Anthony Carpenter,0,46
+2478,1112,Meanies vs Killer Giants,12,Killer Giants,False,31,Philip Webster,1,66
+2490,1112,Meanies vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,0,78
+2494,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,141,Andrew Bailey,0,69
+2501,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,191,Blake Garcia,1,90
+2510,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,31,Philip Webster,1,66
+2514,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,91,James Kim,3,59
+2520,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,185,Amy Valencia,0,62
+2523,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,59,Ashley Jones,0,62
+2548,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,91,James Kim,2,58
+2550,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,43,Karen Clarke,0,78
+2553,1218,Killer Giants vs Aliens,12,Killer Giants,True,71,Charles Vazquez,0,63
+2557,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,71,Charles Vazquez,0,45
+2562,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,1,63
+2564,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,2,58
+2569,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,87,Wendy Munoz,0,62
+2581,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,0,83
+2584,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,38,Lauren Lopez,0,85
+2594,1218,Killer Giants vs Aliens,12,Killer Giants,True,111,Logan Watts,0,78
+2603,512,Marauders vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,0,68
+2627,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,0,75
+2631,1218,Killer Giants vs Aliens,18,Aliens,False,77,Monica Watson,0,68
+2640,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,22,Kristina Strong,2,69
+2655,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,1,87
+2672,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,65,Charles Galloway,0,82
+2687,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,67,Tina Holder,0,46
+2693,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,2,64
+2696,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,0,62
+2697,512,Marauders vs Killer Giants,12,Killer Giants,False,211,Jacob White,0,54
+2701,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,55,Andrew Edwards,0,85
+2702,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,211,Jacob White,0,77
+2708,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,196,Dustin Moore,0,47
+2736,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,173,Linda Warner,0,89
+2753,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,111,Logan Watts,1,74
+2758,1215,Killer Giants vs Kicking You,15,Kicking You,False,14,Michelle Ward,0,77
+2798,1218,Killer Giants vs Aliens,12,Killer Giants,True,171,Lisa Brooks,0,46
+2799,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,42,Robert Santana,0,85
+2801,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,39,Valerie Gonzalez,0,80
+2807,512,Marauders vs Killer Giants,5,Marauders,True,24,Summer Decker,0,64
+2821,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,191,Blake Garcia,0,77
+2828,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,35,Deborah Green,1,56
+2835,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,66,Shannon Baxter,0,68
+2843,1215,Killer Giants vs Kicking You,15,Kicking You,False,174,Andrew Cox,1,71
+2858,1218,Killer Giants vs Aliens,18,Aliens,False,97,Alison Clay,3,75
+2876,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,147,Brian Pacheco,0,55
+2883,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,91,James Kim,0,82
+2890,1213,Killer Giants vs Lost,13,Lost,False,52,Lauren Moreno,0,45
+2906,1215,Killer Giants vs Kicking You,15,Kicking You,False,34,Jody Golden,1,79
+2921,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,11,Andrea Valentine,1,74
+2925,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,31,Philip Webster,0,60
+2933,1213,Killer Giants vs Lost,12,Killer Giants,True,171,Lisa Brooks,2,48
+2942,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,8,Nathan Lewis,0,86
+2951,1112,Meanies vs Killer Giants,11,Meanies,True,130,Henry Riddle,0,68
+2957,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,23,Betty Bailey,0,73
+2961,912,Easily Nauseous vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,0,82
+2968,1215,Killer Giants vs Kicking You,12,Killer Giants,True,51,Tammy Evans,1,58
+2976,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,91,James Kim,1,69
+2979,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,163,Jamie Lee,2,59
+2989,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,187,Evan Lopez,0,78
+3003,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,131,Aaron Reyes,0,88
+3011,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,11,Andrea Valentine,0,57
+3050,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,171,Lisa Brooks,0,86
+3052,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,171,Lisa Brooks,0,86
+3077,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,51,Tammy Evans,0,85
+3111,512,Marauders vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,0,58
+3120,1215,Killer Giants vs Kicking You,15,Kicking You,False,134,Amanda Walters,2,50
+3140,1215,Killer Giants vs Kicking You,15,Kicking You,False,214,Steve Robbins,1,51
+3167,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,91,James Kim,0,82
+3169,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,180,Laura Colon,1,77
+3185,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,115,Denise Harris,0,87
+3208,512,Marauders vs Killer Giants,5,Marauders,True,164,Jane Dixon,1,86
+3210,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,19,Joanna Perry,0,75
+3211,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,0,89
+3216,1215,Killer Giants vs Kicking You,15,Kicking You,False,194,Michael Hopkins,1,57
+3230,1213,Killer Giants vs Lost,12,Killer Giants,True,31,Philip Webster,1,46
+3235,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,0,88
+3236,512,Marauders vs Killer Giants,12,Killer Giants,False,91,James Kim,1,71
+3237,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,56,Jonathan Salazar,0,60
+3238,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,135,Brittney Wolf,2,56
+3258,1216,Killer Giants vs Fat Married People,16,Fat Married People,False,195,Charles Wilson,0,90
+3262,1218,Killer Giants vs Aliens,12,Killer Giants,True,211,Jacob White,0,90
+3265,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,199,Donald Navarro,0,58
+3282,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,202,Brandon Perez,3,50
+3300,312,Sons Of Chuck Norris vs Killer Giants,3,Sons Of Chuck Norris,True,142,Kurt May,0,74
+3303,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,168,Ms. Crystal Morgan,2,84
+3308,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,1,72
+3332,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,11,Andrea Valentine,0,79
+3344,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,119,Jennifer Bradford,1,86
+3345,1218,Killer Giants vs Aliens,12,Killer Giants,True,131,Aaron Reyes,1,88
+3346,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,156,Kimberly Patterson,1,85
+3351,1220,Killer Giants vs Two Left Feet,12,Killer Giants,True,11,Andrea Valentine,0,64
+3364,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,167,Scott Callahan,0,64
+3374,1213,Killer Giants vs Lost,13,Lost,False,172,Brittney Murphy,0,51
+3380,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,111,Logan Watts,0,79
+3396,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,46,Nicholas Singh,3,84
+3411,1213,Killer Giants vs Lost,12,Killer Giants,True,211,Jacob White,0,82
+3436,1215,Killer Giants vs Kicking You,12,Killer Giants,True,191,Blake Garcia,2,90
+3446,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,189,Brianna Hopkins,0,53
+3465,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,0,84
+3467,1215,Killer Giants vs Kicking You,12,Killer Giants,True,171,Lisa Brooks,0,82
+3476,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,0,90
+3486,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,48,Kari Schmitt,0,56
+3494,812,11 Men In Flight vs Killer Giants,8,11 Men In Flight,True,127,Chad Ferguson,0,74
+3500,1213,Killer Giants vs Lost,12,Killer Giants,True,71,Charles Vazquez,1,60
+3522,712,3 Left Feet vs Killer Giants,7,3 Left Feet,True,86,Sara Day,0,89
+3529,512,Marauders vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,1,65
+3537,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,31,Philip Webster,0,69
+3538,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,28,Robert Ho,0,45
+3542,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,151,Anthony Carpenter,1,67
+3552,1112,Meanies vs Killer Giants,11,Meanies,True,110,Regina Zhang,1,63
+3557,1218,Killer Giants vs Aliens,12,Killer Giants,True,191,Blake Garcia,0,67
+3565,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,5,Bill Pierce,3,69
+3579,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,78,Andrew Johnson,1,90
+3593,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,21,Mariah Mccullough,1,65
+3594,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,69,Latoya Myers,0,62
+3612,612,Miscellaneous vs Killer Giants,12,Killer Giants,False,111,Logan Watts,1,56
+3615,512,Marauders vs Killer Giants,5,Marauders,True,124,Jeremy Moreno,3,53
+3626,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,61,Lauren Anderson,0,81
+3627,1215,Killer Giants vs Kicking You,15,Kicking You,False,54,Randall Perkins,0,54
+3631,1219,Killer Giants vs Nagoya Grampus Eight,12,Killer Giants,True,151,Anthony Carpenter,0,56
+3653,1220,Killer Giants vs Two Left Feet,20,Two Left Feet,False,139,Amy Williams,1,49
+3667,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,13,Shane Jackson,0,46
+3673,1112,Meanies vs Killer Giants,12,Killer Giants,False,151,Anthony Carpenter,1,82
+3684,512,Marauders vs Killer Giants,5,Marauders,True,4,Timothy Gonzalez,0,83
+3687,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,111,Logan Watts,2,77
+3728,1218,Killer Giants vs Aliens,18,Aliens,False,57,Terry Hart,1,52
+3729,212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,211,Jacob White,0,76
+3732,1012,The Strongest Football Club vs Killer Giants,12,Killer Giants,False,211,Jacob White,0,58
+3759,1219,Killer Giants vs Nagoya Grampus Eight,19,Nagoya Grampus Eight,False,178,Steven Glass,0,48
+3761,812,11 Men In Flight vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,2,46
+3777,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,116,Andrew Gonzales,0,50
+3785,1215,Killer Giants vs Kicking You,15,Kicking You,False,74,Todd Robinson,0,62
+3795,1112,Meanies vs Killer Giants,11,Meanies,True,190,Barry Mitchell,1,83
+3807,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,45,Samuel Turner,0,73
+3822,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,89,Elizabeth Reeves,0,87
+3831,512,Marauders vs Killer Giants,5,Marauders,True,104,Stanley Werner,0,70
+3847,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,183,Dakota Smith,1,79
+3862,1112,Meanies vs Killer Giants,12,Killer Giants,False,111,Logan Watts,0,54
+3864,512,Marauders vs Killer Giants,12,Killer Giants,False,51,Tammy Evans,1,58
+3874,212,Formerly In Shape Stars vs Killer Giants,2,Formerly In Shape Stars,True,1,Dr. Haley Murphy,0,61
+3875,1213,Killer Giants vs Lost,13,Lost,False,32,Kathleen Cohen,0,81
+3887,1217,Killer Giants vs We Like Puppies,17,We Like Puppies,False,76,Tristan Chapman,0,67
+3894,1214,Killer Giants vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,33,Jason Cain,3,66
+3905,1218,Killer Giants vs Aliens,18,Aliens,False,177,Jennifer Velazquez,1,74
+3906,1217,Killer Giants vs We Like Puppies,12,Killer Giants,True,31,Philip Webster,2,75
+3931,1213,Killer Giants vs Lost,12,Killer Giants,True,131,Aaron Reyes,0,51
+3932,112,"Look Ma, No Hands vs Killer Giants",12,Killer Giants,False,151,Anthony Carpenter,1,79
+3941,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,191,Blake Garcia,0,81
+4009,112,"Look Ma, No Hands vs Killer Giants",1,"Look Ma, No Hands",True,120,Courtney Thompson,2,68
+4031,312,Sons Of Chuck Norris vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,0,78
+4032,1215,Killer Giants vs Kicking You,12,Killer Giants,True,211,Jacob White,2,86
+4041,1218,Killer Giants vs Aliens,18,Aliens,False,37,Brenda Johnson,3,89
+4046,1112,Meanies vs Killer Giants,11,Meanies,True,50,David Anderson,0,62
+4051,912,Easily Nauseous vs Killer Giants,9,Easily Nauseous,True,128,Colton Harris,1,73
+4063,412,Benchwarmers vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,1,45
+4065,412,Benchwarmers vs Killer Giants,4,Benchwarmers,True,143,Jennifer Anderson,1,84
+4080,1012,The Strongest Football Club vs Killer Giants,10,The Strongest Football Club,True,109,Tracy Miller,0,66
+4113,1214,Killer Giants vs Cape Coast Mysterious Dwarves,12,Killer Giants,True,51,Tammy Evans,0,52
+4118,712,3 Left Feet vs Killer Giants,12,Killer Giants,False,71,Charles Vazquez,0,56
+4132,612,Miscellaneous vs Killer Giants,6,Miscellaneous,True,25,Heather Mills,1,50
+4133,1216,Killer Giants vs Fat Married People,12,Killer Giants,True,71,Charles Vazquez,1,65
+4139,1215,Killer Giants vs Kicking You,12,Killer Giants,True,31,Philip Webster,0,59
+4149,1215,Killer Giants vs Kicking You,12,Killer Giants,True,71,Charles Vazquez,3,58
